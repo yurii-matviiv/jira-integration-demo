@@ -14,7 +14,9 @@ It is used as a practice project for QA activities such as:
 ## Purpose
 The main goal of this repository is to serve as a **QA practice project**.  
 It does not contain production-ready code but helps to show how QA work is organized in a real project environment.  
-Additionally, it demonstrates the process of **learning and applying automated testing** on real-world scenarios (e.g., login form authentication).
+
+All training activities are based on a **real working project** – [flyn.no](https://flyn.no/).  
+This allows us to practice QA processes (manual testing, bug reporting, automated testing) in conditions close to a real production system.
 
 ---
 
