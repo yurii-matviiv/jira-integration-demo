@@ -7,12 +7,14 @@ It is used as a practice project for QA activities such as:
 - Linking commits and pull requests to Jira issues.
 - Practicing bug reporting and task tracking workflow.
 - Understanding the connection between development and QA processes.
+- Writing and documenting **automated tests** (PHPUnit, Laravel) as part of QA practice.
 
 ---
 
 ## Purpose
 The main goal of this repository is to serve as a **QA practice project**.  
-It does not contain production-ready code but helps to show how QA work is organized in a real project environment.
+It does not contain production-ready code but helps to show how QA work is organized in a real project environment.  
+Additionally, it demonstrates the process of **learning and applying automated testing** on real-world scenarios (e.g., login form authentication).
 
 ---
 
