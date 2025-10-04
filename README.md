@@ -30,7 +30,10 @@ Here are examples of how QA tasks are connected across different tools:
 
 ### Automated Testing
 - [QPP-2] **[AUTOTEST] Login form – successful login redirects to dashboard**  
-  - Jira task: exported as PDF in `/docs`  
+  - Jira task: 
+  exported as PDF in `/docs/QPP-2_Autotest_LoginForm.pdf`  
+  exported as PNG in `/docs/[#QPP-2] [AUTOTEST] Login form – successful login redirects to dashboard.png` 
+
   - Test code: [`tests/Feature/Auth/AuthenticationTest.php`](tests/Feature/Auth/AuthenticationTest.php)  
   - Related test method: `test_users_can_authenticate_using_the_login_screen`
 
